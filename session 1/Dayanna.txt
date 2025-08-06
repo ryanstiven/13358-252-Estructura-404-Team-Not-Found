@@ -1,1 +1,8 @@
-
+Nombre: Dayanna Chavez
+Edad: 20 años
+Programa academico: Ingenieria en sistemas
+Semestre actual: 4 semestre
+Algo extraño que te gusta hacer: Organizar mis aplicaciones por colores
+Color favorito: Rosado
+¿Tienes mascotas?: Si, un perro llamado Tobby
+Intereses en el desarrollo de software: Desarrollo Web y aplicaciones moviles
