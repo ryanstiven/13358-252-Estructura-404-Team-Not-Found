@@ -1,1 +1,9 @@
+Nombre: Dilan Stiven Torres Motta
+Edad:18
+Programa académico:Ing.Sistemas
+Semestre actual:4
+Algo extraño que te gusta hacer:Organizar mis camisas por colores
+Color favorito:Verde
+¿Tienes mascotas? (¿cuáles?):No
+Intereses en el desarrollo de software (por ejemplo, desarrollo web, apps móviles, videojuegos, etc.):
 
