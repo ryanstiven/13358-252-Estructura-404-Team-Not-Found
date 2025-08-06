@@ -1,1 +1,8 @@
-
+Nombre:Juan José Ayala Sanchez
+Edad:24
+Programa académico:Ingenieria en Sistemas
+Semestre actual:4
+Algo extraño que te gusta hacer:Colocar mi celular en B/N
+Color favorito:Azul
+¿Tienes mascotas? (¿cuáles?):Si, 2 perros
+Intereses en el desarrollo de software (por ejemplo, desarrollo web, apps móviles, videojuegos, etc.):Desarrollo Web y App Moviles
